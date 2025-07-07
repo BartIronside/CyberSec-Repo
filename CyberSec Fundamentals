@@ -1,0 +1,85 @@
+🔐 CIANA – Cybersecurity Fundamentals
+
+Cybersecurity is built upon a set of core principles, commonly represented by the acronym **CIANA**: 
+**Confidentiality, Integrity, Availability, Non-repudiation**, and **Authenticity**. 
+These five pillars guide how we secure data, systems, and communications.
+
+C - 🕵️‍♂️ Confidentiality - This pillar refers to the information security. Confidentiality ensures that 
+sensitive information is accessible only to those authorized to have access. 
+It's about protecting data from unauthorized disclosure and keeping it private.
+
+        **Example mechanisms:**  
+        - Encryption (e.g., AES, TLS)
+        - Access Control Lists (ACLs)
+        - Role-Based Access Control (RBAC)
+        - VPNs and tunneling protocols
+
+**Example:**
+        
+Using HTTPS on a website ensures that data transmitted between the user and the server is encrypted and cannot be read by third parties.
+
+
+I - 🧬 Integrity - Integrity refers to the accuracy and completeness of data. 
+It ensures that data has not been tampered with or altered either accidentally or 
+maliciously during storage or transmission.
+
+        **Example mechanisms:**  
+        - Checksums (e.g., MD5, SHA-256)
+        - Digital signatures
+        - Message Authentication Codes (MAC)
+        - Version control systems
+
+
+A - 🌐 Availability - Availability guarantees that authorized users have reliable and timely access to 
+data, applications, and systems when needed. It involves designing infrastructure to resist or recover 
+quickly from disruptions.
+
+
+        **Example mechanisms:**  
+        - Redundancy and failover systems
+        - Load balancing
+        - DDoS protection
+        - Backups and disaster recovery plans
+
+
+
+
+N - ✍️ Non-repudiation - Non-repudiation provides proof of the origin and delivery of data, 
+        ensuring that a sender cannot deny having sent a message or performed an action. 
+        It is critical for accountability and legal compliance.
+
+        **Example mechanisms:**  
+        - Digital signatures
+        - Secure logging and audit trails
+        - Email receipt confirmations
+        - Blockchain-based transaction logs
+
+
+A - 🔑 Authenticity - Authenticity ensures that the source of data or a user is genuine 
+and that the information is not counterfeit. It often works hand-in-hand with authentication mechanisms.
+
+
+        **Example mechanisms:**  
+        - Multi-Factor Authentication (MFA)
+        - Digital certificates (e.g., X.509)
+        - Public Key Infrastructure (PKI)
+        - Biometrics and secure tokens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
